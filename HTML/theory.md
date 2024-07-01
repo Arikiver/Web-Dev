@@ -1,4 +1,4 @@
-*What is HTML?*
+# What is HTML?
     HTML stands for Hyper Text Markup Language
     HTML is the standard markup language for creating Web pages
     HTML describes the structure of a Web page
@@ -8,9 +8,9 @@
 
 **HTML is Not Case Sensitive**
 
--------------------------------------------------------------------------------------------------------------
+---
 
-*HTML elements:*
+# HTML elements:
     The HTML element is everything from the start tag to the end tag:
 
     <tagname>Content goes here...</tagname>
@@ -23,7 +23,7 @@
 
         The <br> tag defines a line break, and is an empty element without a closing tag:
 
-*HTML Attributes:*
+# HTML Attributes:
     All HTML elements can have attributes
     Attributes provide additional information about elements
     Attributes are always specified in the start tag
@@ -33,7 +33,7 @@
         <a href="https://www.w3schools.com">Visit W3Schools</a> -- here "href" is the name and "https://www.w3schools.com" is the value.
         <img src="img_girl.jpg"> -- here "src" is the name and "img_girl.jpg" is the value.
 
-    The src Attribute:
+    ==The src Attribute:==
         The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
             <img src="img_girl.jpg">
 
@@ -47,11 +47,11 @@
 
         Tip: It is almost always best to use relative URLs. They will not break if you change domain.
 
-    Tip:
+    *Tip:*
         Always Use Lowercase Attributes
         Always Quote Attribute Values
 
-**Elements summary:**
+## Elements summary:
     All HTML elements can have attributes
     The href attribute of <a> specifies the URL of the page the link goes to
     The src attribute of <img> specifies the path to the image to be displayed
@@ -61,17 +61,21 @@
     The lang attribute of the <html> tag declares the language of the Web page
     The title attribute defines some extra information about an element
 
---------------------------------------------------------------------------------------------------------------------
+---
 
-*HTML Headings:*
+# HTML Headings:
     [headings.html](headings.html)
 
-*HTML Paragraphs:*
+---
+
+# HTML Paragraphs:
     [paragraphs.html](pragraphs.html)
 
-*HTML Styles*
-    [styles.html](styles.html)
-    The HTML Style Attribute:
+---
+
+# HTML Styles
+    [styles.html](styles.html)\
+    The HTML Style Attribute:\
         Setting the style of an HTML element, can be done with the style attribute.
 
         The HTML style attribute has the following syntax:
@@ -79,5 +83,7 @@
         <tagname style="property:value;">
         The property is a CSS property. The value is a CSS value.
 
-*HTML Text Formatting*
+---
+
+# HTML Text Formatting
     [textformatting.html](textformatting.html)
