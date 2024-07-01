@@ -71,7 +71,7 @@
 
 *HTML Styles*
     [styles.html](styles.html)
-    The HTML Style Attribute
+    The HTML Style Attribute:
         Setting the style of an HTML element, can be done with the style attribute.
 
         The HTML style attribute has the following syntax:
