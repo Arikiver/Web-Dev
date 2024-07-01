@@ -33,7 +33,7 @@
         <a href="https://www.w3schools.com">Visit W3Schools</a> -- here "href" is the name and "https://www.w3schools.com" is the value.
         <img src="img_girl.jpg"> -- here "src" is the name and "img_girl.jpg" is the value.
 
-    ==The src Attribute:==
+== The src Attribute:==
         The <img> tag is used to embed an image in an HTML page. The src attribute specifies the path to the image to be displayed:
             <img src="img_girl.jpg">
 
@@ -47,7 +47,7 @@
 
         Tip: It is almost always best to use relative URLs. They will not break if you change domain.
 
-    *Tip:*
+*Tip:*
         Always Use Lowercase Attributes
         Always Quote Attribute Values
 
@@ -64,18 +64,19 @@
 ---
 
 # HTML Headings:
-    [headings.html](headings.html)
+[headings.html](headings.html)
 
 ---
 
 # HTML Paragraphs:
-    [paragraphs.html](pragraphs.html)
+[paragraphs.html](pragraphs.html)
 
 ---
 
 # HTML Styles
-    [styles.html](styles.html)\
-    The HTML Style Attribute:\
+
+[styles.html](styles.html)
+    The HTML Style Attribute:
         Setting the style of an HTML element, can be done with the style attribute.
 
         The HTML style attribute has the following syntax:
@@ -86,4 +87,4 @@
 ---
 
 # HTML Text Formatting
-    [textformatting.html](textformatting.html)
+[textformatting.html](textformatting.html)
