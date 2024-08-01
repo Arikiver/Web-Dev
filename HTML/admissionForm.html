@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        form {
+            width: 300px;
+            margin: auto;
+        }
+        label {
+            display: block;
+            margin: 10px 0 5px;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <label>Name of the student:</label>
+        <input type="text" name="name">
+        
+        <label>Password:</label>
+        <input type="password" name="password">
+        
+        <label>Age:</label>
+        <select name="age">
+            <option value="18">18</option>
+            <option value="19">19</option>
+            <option value="20">20</option>
+            <!-- Add more options as needed -->
+        </select>
+        
+        <label>Gender:</label>
+        <input type="radio" name="gender" value="male"> Male
+        <input type="radio" name="gender" value="female"> Female
+        
+        <label>Qualification:</label>
+        <select name="qualification">
+            <option value="highschool">High School</option>
+            <option value="bachelor">Bachelor</option>
+            <option value="master">Master</option>
+        </select>
+        
+        <label>Address:</label>
+        <textarea name="address"></textarea>
+        
+        <button type="button" onclick="submitForm()">Submit</button>
+    </form>
+
+    <script>
+        function submitForm() {
+            // Implement form validation and submission logic here
+            alert('Form submitted!');
+        }
+    </script>
+</body>
+</html>

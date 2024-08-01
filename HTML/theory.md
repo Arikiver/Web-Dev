@@ -8,7 +8,7 @@
 
 **HTML is Not Case Sensitive**
 
----
+----------
 
 # HTML elements:
     The HTML element is everything from the start tag to the end tag:
@@ -61,17 +61,17 @@
     The lang attribute of the <html> tag declares the language of the Web page
     The title attribute defines some extra information about an element
 
----
+----------
 
 # HTML Headings:
 [headings.html](headings.html)
 
----
+----------
 
 # HTML Paragraphs:
 [paragraphs.html](pragraphs.html)
 
----
+----------
 
 # HTML Styles
 
@@ -84,7 +84,7 @@
         <tagname style="property:value;">
         The property is a CSS property. The value is a CSS value.
 
----
+----------
 
 # HTML Text Formatting
 [textformatting.html](textformatting.html)
